@@ -1,0 +1,13 @@
+The Good, The Bad and The Ugly;4;1966;ACTION;Clint Eastwood;Lee Van Cleef;;
+The Room;0;2003;DRAMA;Tommy Wiseau;;
+Apocalypse Now!;5;1979;DRAMA;Martin Sheen;Lawrence Fishbourne;Marlon Brando;;
+Caligula;3;1979;DRAMA;Malcolm McDowell;Peter O'Toole;Helen Mirren;;
+Dr. Strangelove;5;1968;COMEDY;Peter Sellers, George C. Scott;;
+The Hobbit;2;2012;ACTION;Martin Freeman, Ian McKellen;;
+Friday the 13th;3;1980;HORROR;Betsy Palmer;Harry Crosby;Adrienne King;;
+Cannibal Rabbis;3;1979;HORROR;Joseph Goldstein;Mortimer Weinstein;Marlon Brando;Ben Bergstein;;
+Cannibal Rabbis II: Passover Apocalyse;1;1990;HORROR;Joseph Goldstein;Mortimer Weinstein;Ben Bergstein;Kevin Bacon;;
+Cannibal Rabbis III: Oy Vey Not Again;0;2013;HORROR;Joseph Goldstein;Mel Davidstein;Mortimer Weinstein;;
+Cannibal Rabbis IV: Rise of the Acidic Hassidics;0;2014;HORROR;Mr. T;Mel Davidstein;Mortimer Weinstein;Harry Crosby;;
+The Terrible 2;1;2000;COMEDY;Adam Sandler;Rob Schnieder;;
+Godzilla;2;2000;ACTION;Matthew Broderick;;
